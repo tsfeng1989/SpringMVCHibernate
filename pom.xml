@@ -69,12 +69,6 @@
 			<version>${hibernate.version}</version>
 		</dependency>
 		
-		<!-- Apache Commons DBCP -->
-		<dependency>
-			<groupId>commons-dbcp</groupId>
-			<artifactId>commons-dbcp</artifactId>
-			<version>1.4</version>
-		</dependency>
 		<!-- Spring ORM -->
 		<dependency>
 			<groupId>org.springframework</groupId>
